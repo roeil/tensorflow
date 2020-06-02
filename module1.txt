@@ -1,0 +1,4 @@
+ft.placeholdr # data is being fed later
+tf.Variable() # create variables for weights
+tf.matmul #multiple featires and wights
+tf.add() #sum w*x + bias
